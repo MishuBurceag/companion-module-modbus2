@@ -1,5 +1,5 @@
 {
-	"id": "ModBus",
+	"id": "companion-module-modbus2",
 	"name": "ModBus Client",
 	"shortname": "ModBus",
 	"description": "modbus",
