@@ -21,6 +21,6 @@
 	},
 	"legacyIds": [],
 	"manufacturer": "AG",
-	"products": ["ModBus Server"],
+	"products": ["ModBus Client"],
 	"keywords": []
 }
