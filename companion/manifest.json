@@ -1,6 +1,6 @@
 {
 	"id": "ModBus",
-	"name": "ModBus Server",
+	"name": "ModBus Client",
 	"shortname": "ModBus",
 	"description": "modbus",
 	"version": "1.0.2",
