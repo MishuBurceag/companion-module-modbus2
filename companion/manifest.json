@@ -5,11 +5,11 @@
 	"description": "modbus",
 	"version": "1.0.2",
 	"license": "MIT",
-	"repository": "git+https://github.com/bitfocus/companion-module-modbus.git",
-	"bugs": "https://github.com/bitfocus/companion-module-modbus/issues",
+	"repository": "git+https://github.com/MishuBurceag/companion-module-modbus2.git",
+	"bugs": "https://github.com/MishuBurceag/companion-module-modbus2",
 	"maintainers": [
 		{
-			"name": "modbus",
+			"name": "Atlas",
 			"email": "Youremail@local"
 		}
 	],
