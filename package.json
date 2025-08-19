@@ -1,0 +1,27 @@
+{
+	"name": "modbus",
+	"version": "0.1.0",
+	"main": "main.js",
+	"scripts": {
+		"format": "prettier -w .",
+		"package": "companion-module-build"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bitfocus/companion-module-modbus.git"
+	},
+	"dependencies": {
+		"@companion-module/base": "~1.11.2",
+		"jsmodbus": "^4.0.10",
+		"modbus-serial": "^8.0.19",
+		"modbusdb": "^1.0.2"
+	},
+	"devDependencies": {
+		"@companion-module/tools": "^2.1.1",
+		"prettier": "^3.4.2"
+	},
+	"prettier": "@companion-module/tools/.prettierrc.json",
+	"packageManager": "yarn@4.5.3",
+	"type": "commonjs"
+}
